@@ -33,3 +33,5 @@ compose.desktop {
         }
     }
 }
+
+compose.kotlinCompilerPlugin.set("1.5.2.1-Beta3")
